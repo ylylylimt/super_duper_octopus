@@ -46,6 +46,8 @@ Hi, this is a test file.
 Test file 2 to be precise.
 
 Вывод вашей программы должен выглядеть следующим образом:
+
+
 2c2
 
 
